@@ -1,0 +1,28 @@
+name: RentAnExpert
+favicon: null
+layout_spectrum: 0.32933519361540675
+typography_spectrum: 0.026641562581062317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6394535419531167
+  lightness: 0.6786124848295003
+  saturation: 0.31149231479503214
+  rhythmicContrast: 0.8205140298232436
+purpose: []
