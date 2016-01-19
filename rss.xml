@@ -4,18 +4,25 @@
         <description><![CDATA[RentAnExpert]]></description>
         <link>https://thegrid.ai/rentanexpert/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 15:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 15:44:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rentanexpert/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[InYourFace]]></title>
+            <description><![CDATA[<article><h1>InYourFace</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/074d752742ad0ca05e12b52dff1976df2c3c5b03.gif"></article>]]></description>
+            <link>http://rentanexpert.tumblr.com/</link>
+            <guid isPermaLink="false">4ed88eb6-482b-4bb2-971d-5a49c7ac6323</guid>
+            <pubDate>Tue, 19 Jan 2016 15:44:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[happy new years madafakas!]]></title>
-            <description><![CDATA[<article><h1>happy new years madafakas!</h1><p>It's Launch Day</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0beae1abc9f4a8f6fa9a13337ad85c75ca4545a2.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>happy new years madafakas!</h1><p>It's Launch Day</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/836f3ce68b807ecfd2bebe475051625a8ea99a8d.gif"></article>]]></description>
             <link>http://rentanexpert.me/</link>
             <guid isPermaLink="false">ecdee92d-7ab3-463d-9fb7-0db64a1284d5</guid>
             <pubDate>Tue, 19 Jan 2016 15:43:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flygram]]></title>
-            <description><![CDATA[<article><h1>Flygram</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e49e96d4bd22f9e9a2129b43f79fa5e422a308d5.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Flygram</h1><p>Come fly with me ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0686296dc5696bd0d20f747994034c615435086.gif"></article>]]></description>
             <link>http://skylinelady.com/</link>
             <guid isPermaLink="false">09ecfb75-cf55-4a0a-a3e3-03734a315052</guid>
             <pubDate>Tue, 19 Jan 2016 15:42:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.tumblr.com/blog/rentanexpert</link>
             <guid isPermaLink="false">ab13f51b-7651-41f4-9977-b817d6115069</guid>
             <pubDate>Tue, 19 Jan 2016 15:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’ll see you further first]]></title>
-            <description><![CDATA[<article><h1>I’ll see you further first</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fde424627c2e754920fa24c9c5883fa1f28adb8.gif"></article>]]></description>
-            <link>https://www.tumblr.com/blog/rentanexpert</link>
-            <guid isPermaLink="false">5c7ae272-599c-4b89-9fad-d334cbccc9a8</guid>
-            <pubDate>Tue, 19 Jan 2016 15:32:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
