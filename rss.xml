@@ -4,7 +4,7 @@
         <description><![CDATA[RentAnExpert]]></description>
         <link>http://rentanexpert.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 17:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 18:09:35 GMT</lastBuildDate>
         <atom:link href="http://rentanexpert.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The daily madness of a Freelance Expert. ]]></title>
@@ -12,6 +12,13 @@
             <link>http://rentanexpert.me/</link>
             <guid isPermaLink="false">e6c5eca3-2ed4-4bf9-9e58-230d5e16c4f4</guid>
             <pubDate>Tue, 19 Jan 2016 16:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://45.media.tumblr.com/110a6a13f92b4c2ff305772f8dd0f472/tumblr_o14k8vaGju1rc7x5lo1_500.gif">]]></description>
+            <link>http://rentanexpert.me/944835ed-208e-4fdb-8de9-daa54e653f5c/index.html</link>
+            <guid isPermaLink="false">944835ed-208e-4fdb-8de9-daa54e653f5c</guid>
+            <pubDate>Tue, 19 Jan 2016 18:05:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -42,11 +49,11 @@
             <pubDate>Tue, 19 Jan 2016 17:41:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When you ask a client for their logo]]></title>
-            <description><![CDATA[<article><h1>When you ask a client for their logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3ea153b53524fe5f639f84ea12f19022bc01bb6.jpg"></article>]]></description>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbd7986d97d32ef8c55f1bf4fc0174f5a0e751ef.jpg" alt="" title="">]]></description>
             <link>http://rentanexpert.me/</link>
             <guid isPermaLink="false">057ef213-5d3c-4717-b07b-06c048e3d9be</guid>
-            <pubDate>Tue, 19 Jan 2016 15:54:40 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 18:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Monday’s feel like]]></title>
@@ -68,13 +75,6 @@
             <link>http://rentanexpert.tumblr.com/</link>
             <guid isPermaLink="false">4ed88eb6-482b-4bb2-971d-5a49c7ac6323</guid>
             <pubDate>Tue, 19 Jan 2016 16:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[happy new years madafakas!]]></title>
-            <description><![CDATA[<article><h1>happy new years madafakas!</h1><p>It's Launch Day</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/836f3ce68b807ecfd2bebe475051625a8ea99a8d.gif"></article>]]></description>
-            <link>http://rentanexpert.me/</link>
-            <guid isPermaLink="false">ecdee92d-7ab3-463d-9fb7-0db64a1284d5</guid>
-            <pubDate>Tue, 19 Jan 2016 15:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
