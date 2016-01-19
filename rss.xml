@@ -4,7 +4,7 @@
         <description><![CDATA[RentAnExpert]]></description>
         <link>http://rentanexpert.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 18:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 18:52:39 GMT</lastBuildDate>
         <atom:link href="http://rentanexpert.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The daily madness of a Freelance Expert. ]]></title>
@@ -12,6 +12,13 @@
             <link>http://rentanexpert.me/</link>
             <guid isPermaLink="false">e6c5eca3-2ed4-4bf9-9e58-230d5e16c4f4</guid>
             <pubDate>Tue, 19 Jan 2016 18:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On duty]]></title>
+            <description><![CDATA[<article><h1>On duty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e49e96d4bd22f9e9a2129b43f79fa5e422a308d5.gif"></article>]]></description>
+            <link>http://skylinelady.com/</link>
+            <guid isPermaLink="false">09ecfb75-cf55-4a0a-a3e3-03734a315052</guid>
+            <pubDate>Tue, 19 Jan 2016 18:52:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#dealwithit]]></title>
@@ -49,11 +56,11 @@
             <pubDate>Tue, 19 Jan 2016 18:46:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weekend Mode - Rock on]]></title>
-            <description><![CDATA[<article><h1>Weekend Mode - Rock on</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6f496622863fe10d7da1346a841cb600ec7f907.gif"></article>]]></description>
+            <title><![CDATA[Weekend Mode]]></title>
+            <description><![CDATA[<article><h1>Weekend Mode</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6f496622863fe10d7da1346a841cb600ec7f907.gif"></article>]]></description>
             <link>https://www.tumblr.com/blog/rentanexpert</link>
             <guid isPermaLink="false">ab13f51b-7651-41f4-9977-b817d6115069</guid>
-            <pubDate>Tue, 19 Jan 2016 18:30:36 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 18:51:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -64,17 +71,10 @@
         </item>
         <item>
             <title><![CDATA[Pfff]]></title>
-            <description><![CDATA[<article><h1>Pfff</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/708afc66efe70639b59a29d58073a9b92625bc58.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Pfff</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1b7b2ff1d4276b1c8f46a60bae5706efe8f0485.gif"></article>]]></description>
             <link>https://www.tumblr.com/blog/rentanexpert</link>
             <guid isPermaLink="false">8a86f6fa-cb3f-4c77-93d6-62d5e0001e7e</guid>
-            <pubDate>Tue, 19 Jan 2016 18:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[happy new years madafakas!]]></title>
-            <description><![CDATA[<article><h1>happy new years madafakas!</h1><p>It's Launch Day</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/836f3ce68b807ecfd2bebe475051625a8ea99a8d.gif"></article>]]></description>
-            <link>http://rentanexpert.me/</link>
-            <guid isPermaLink="false">ecdee92d-7ab3-463d-9fb7-0db64a1284d5</guid>
-            <pubDate>Tue, 19 Jan 2016 18:24:55 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 18:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
