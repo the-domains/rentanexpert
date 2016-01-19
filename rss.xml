@@ -4,7 +4,7 @@
         <description><![CDATA[RentAnExpert]]></description>
         <link>http://rentanexpert.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 18:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 18:35:32 GMT</lastBuildDate>
         <atom:link href="http://rentanexpert.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The daily madness of a Freelance Expert. ]]></title>
@@ -12,6 +12,13 @@
             <link>http://rentanexpert.me/</link>
             <guid isPermaLink="false">e6c5eca3-2ed4-4bf9-9e58-230d5e16c4f4</guid>
             <pubDate>Tue, 19 Jan 2016 18:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask me how my week has been…]]></title>
+            <description><![CDATA[<article><h1>Ask me how my week has been…</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da8a5c687b5ccba3a50fec160068f29bba724b8f.gif"></article>]]></description>
+            <link>http://rentanexpert.tumblr.com/</link>
+            <guid isPermaLink="false">69ca785b-9c05-4a42-9951-9b287e97328c</guid>
+            <pubDate>Tue, 19 Jan 2016 18:35:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.tumblr.com/blog/rentanexpert</link>
             <guid isPermaLink="false">9d2a72c9-dfd2-4717-bf40-f54a5a637581</guid>
             <pubDate>Tue, 19 Jan 2016 18:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BusinessTravel]]></title>
-            <description><![CDATA[<article><h1>BusinessTravel</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41aef33cada023561e4b343e5e3367fb7eda0cdc.gif"></article>]]></description>
-            <link>https://www.tumblr.com/blog/rentanexpert</link>
-            <guid isPermaLink="false">56219d7b-f687-4788-8652-54c665cb66e1</guid>
-            <pubDate>Tue, 19 Jan 2016 18:23:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
