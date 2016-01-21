@@ -1,6 +1,6 @@
 name: RentAnExpert
 favicon: null
-layout_spectrum: 0.49422
+layout_spectrum: 0.50963
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#afafaf'
     - '#7f7f7f'
     - '#3f3f3f'
-  brandStrength: 0.5625
+  brandStrength: 0.5
   lightness: 0.125
-  saturation: 0.4375
-  rhythmicContrast: 0.8205140298232436
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
