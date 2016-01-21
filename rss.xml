@@ -4,7 +4,7 @@
         <description><![CDATA[RentAnExpert]]></description>
         <link>http://rentanexpert.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 15:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 15:34:05 GMT</lastBuildDate>
         <atom:link href="http://rentanexpert.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The daily madness of an Freelance Expert. ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 21 Jan 2016 12:18:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DailyQoute]]></title>
+            <description><![CDATA[<article><h1>DailyQoute</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33919d1fbb2feeb57dfbab227c0aff8a02aacc88.png"></article>]]></description>
+            <link>https://www.tumblr.com/blog/rentanexpert</link>
+            <guid isPermaLink="false">4dac7894-7037-47d0-bc55-1135b3df5e8b</guid>
+            <pubDate>Thu, 21 Jan 2016 15:33:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When you’re arguing with someone online]]></title>
-            <description><![CDATA[<article><h1>When you’re arguing with someone online</h1><p>When you’re arguing with someone online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/531cd27401dc8f64a2a192526db1644227deb9d3.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>When you’re arguing with someone online</h1><p>When you’re arguing with someone online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88c4d5d340024967457566af7da2fcc25d8a1d68.gif"></article>]]></description>
             <link>http://rentanexpert.me/</link>
             <guid isPermaLink="false">18dc805f-ebf3-444b-afb2-eca397ee3c19</guid>
             <pubDate>Thu, 21 Jan 2016 15:32:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.tumblr.com/blog/rentanexpert</link>
             <guid isPermaLink="false">ed7a53d2-7eda-45aa-8de9-373530458bd8</guid>
             <pubDate>Thu, 21 Jan 2016 15:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc5770336d8a8b34280950b5705fb5e3038d18eb.gif" alt="" title="">]]></description>
-            <link>https://www.tumblr.com/blog/rentanexpert</link>
-            <guid isPermaLink="false">d076dd9c-a4cf-4848-b6b0-bebd160b1bd3</guid>
-            <pubDate>Thu, 21 Jan 2016 13:14:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
